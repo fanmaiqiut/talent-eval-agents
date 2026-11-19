@@ -35,3 +35,7 @@ sample-data/
 Thumbs.db
 
 *.zip
+
+# pytest 临时目录
+pytest-of-*/
+.pytest_tmp/
